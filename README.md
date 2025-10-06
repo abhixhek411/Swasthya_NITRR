@@ -1,6 +1,6 @@
-# 🏥 Swasthya NITRR
+# 🏥 MedPortal NITRR
 
-Swasthya NITRR is a full-stack MERN (MongoDB, Express, React, Node.js) web application designed for NIT Raipur's dispensary to manage medicine records, events, student health data, and dispensary-related information. It features a clean, responsive UI with secure, role-based access for students, staff, and admins.
+MedPortal NITRR is a full-stack MERN (MongoDB, Express, React, Node.js) web application designed for NIT Raipur's dispensary to manage medicine records, events, student health data, and dispensary-related information. It features a clean, responsive UI with secure, role-based access for students, staff, and admins.
 
 ---
 
