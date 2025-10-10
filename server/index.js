@@ -17,7 +17,7 @@ app.use(cookieParser());
 // 2. CORS setup — allow your frontend to send credentials (cookies)
 app.use(cors({
   origin: [
-  "https://swasthya-nitrr.vercel.app/"
+  "https://medportal-nitrr.vercel.app/"
           ], // Your deployed frontend URL
   credentials: true, //  Required to allow cookies
 }));
